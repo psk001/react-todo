@@ -1,0 +1,28 @@
+.todo {
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid  brown ;
+    border-radius: 20px;
+}
+
+.task,
+.time {
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin: 10px 5px;
+}
+
+.task {
+    margin-right: 20px;
+}
+
+.remove {
+    margin-left: 320px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    /* width: 100px;
+    height: 20px; */
+    border-radius: 10px;
+}   

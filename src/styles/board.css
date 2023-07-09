@@ -1,0 +1,22 @@
+.board {
+    width: 40pc;
+    background-color: lightblue;
+    margin: 40px;
+}
+
+.head {
+    background-color: lightcoral;
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 10px 20px 10px 40px;
+}
+
+.add-task {
+    margin:10px 40px 10px 5px;
+}
+
